@@ -37,7 +37,11 @@ namespace SmsComputerMonitor
             _objInstance._menuItemShowMainWindow.Click +=
                 (sender, args) => _objInstance.ShowAndActivateMainWindow(mainWindow);
             _objInstance._menuItemCloseMainWindow = new MenuItem {Text = @"退出程序"};
-            _objInstance._menuItemCloseMainWindow.Click += (sender, args) => Process.GetCurrentProcess().Kill();
+            _objInstance._menuItemCloseMainWindow.Click += (sender, args) =>
+            {
+                _objInstance._notifyIcon.Dispose();
+                Process.GetCurrentProcess().Kill();
+            };
 
             _objInstance._notifyIcon.ContextMenu.MenuItems.Add(_menuItemShowMainWindow);
             _objInstance._notifyIcon.ContextMenu.MenuItems.Add("-");

@@ -1,0 +1,9 @@
+2017/11/23 17:03:44.278|INFO|CpuCheck | 2017/11/23 17:03:44:cpu使用率[64.22%] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.371|INFO|MemoryCheck | 2017/11/23 17:03:44:内存占用率[可用10.38/15.94GB(已用34.87%)] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.379|INFO|ThreadCountCheck | 2017/11/23 17:03:44:devenv进程的最大线程数:[146] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.486|INFO|短信提交成功：args = [18521517787:2017/11/23 17:03:44:[172.16.60.142]devenv 线程数超载[146>50]]! |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.503|INFO|短信提交成功：args = [18521517789:2017/11/23 17:03:44:[172.16.60.142]devenv 线程数超载[146>50]]! |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.503|INFO|DriverCheck | 2017/11/23 17:03:44:[C:\][可用60/99GB(已用1.00%)] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.503|INFO|DriverCheck | 2017/11/23 17:03:44:[D:\][可用66/123GB(已用1.00%)] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.503|INFO|DriverCheck | 2017/11/23 17:03:44:[E:\][可用86/465GB(已用1.00%)] |SmsComputerMonitor.LogHelper+Logger|
+2017/11/23 17:03:44.503|INFO|NetWorkCheck | 2017/11/23 17:03:44:上传0.00/下载1.62Kbps【网络总负载[1.62kbps]】 |SmsComputerMonitor.LogHelper+Logger|

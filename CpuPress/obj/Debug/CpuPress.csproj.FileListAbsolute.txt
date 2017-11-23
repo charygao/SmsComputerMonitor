@@ -1,0 +1,15 @@
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\bin\Debug\CpuPress.exe.config
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\bin\Debug\CpuPress.exe
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\bin\Debug\CpuPress.pdb
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\MainWindow.g.cs
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\App.g.cs
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress_MarkupCompile.cache
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress_MarkupCompile.lref
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\MainWindow.baml
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.g.resources
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.Properties.Resources.resources
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.csproj.GenerateResource.Cache
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.exe
+D:\Program Files\HK\Documents\GitHub\SmsComputerMonitor\CpuPress\obj\Debug\CpuPress.pdb
